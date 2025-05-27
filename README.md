@@ -5,59 +5,62 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">👋 Hi, I'm Kaung Phyo Thant<br><br>Self-taught web developer with a background in Ethical Hacking and a passion for building real-world applications. I specialize in HTML, CSS, Laravel, and React. Currently working as a Full-Stack developer at **Ultimate Solutions Myanmar**, building robust APIs and admin dashboards for POS and e-commerce systems.</p>
+
+###
+
+<p align="left">🧠 My Journey<br><br>- 🎓 High school graduate<br>- 🛡️ Self-studied **Ethical Hacking** for 2 years (5+ certifications)<br>- 👨‍💻 Switched to Web Development in late 2024<br>- 🧩 Attended an online full-stack class and completed a 3-month on-job training<br>- 🚀 Now working full-time as a developer building production apps</p>
+
+###
+
+<p align="left">🛠️ Projects I've Contributed To<br><br>- 🍽️ Restaurant POS System with real-time kitchen updates<br>- 🛍️ Online Shopping Platform with Laravel + React<br>- 🧾 Admin Reporting System with real-time notification built with FilamentPHP<br>- 🔐 Secure APIs with proper role/permission logic</p>
+
+###
+
+<p align="left">🏆 Certifications (Ethical Hacking)<br><br>- SQL Injection Attacks [EC-Counci]<br>- Android Bug Coundary Hunting : Hunt Like A Rat [EC-Counci]<br>- Ethical Hacking Essential [EC-Counci]<br>- Getting Start With Open Source Intelligence using a Windows Host [CodeRed]<br>- CyberSecurity For Blockchain From Ground Up [CodeRed]</p>
+
+###
+
+<p align="left">🏆 Certifications (Web Development)<br><br>- Full-Stack Developer Course [CodeLab]<br>- Mastering Postman [Udemy]<br>- Front-End Development Libraries [FreeCodeCamp]</p>
+
+###
+
+<div align="center">
   <a href="www.linkedin.com/in/kaung-phyo-thant-926160338" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/kaungphyothantakaterrythant/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="50" alt="facebook logo"  />
   </a>
-  <a href="iwannakmyself" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="doomvicii@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
+  </a>
+  <a href="terrythedev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="50" alt="discord logo"  />
   </a>
 </div>
 
 ###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">🧑🏻‍💻  About Me</h3>
-
-###
-
-<h4 align="center">I'm Kaung Phyo Thant  from Myanmar.<br><br>- 🔭 I’m working as full-stack developer at Ultimate Solutions.</h4>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="30" alt="vuejs logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="materialui logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-</div>
