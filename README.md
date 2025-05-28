@@ -55,10 +55,10 @@
   <a href="https://www.facebook.com/kaungphyothantakaterrythant/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="50" alt="facebook logo"  />
   </a>
-  <a href="doomvicii@gmail.com" target="_blank">
+  <a href="mailto:doomvicii@gmail.com?subject=Hii%20Terrry&body=I%20wanna%20talk%20about%20something..." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
   </a>
-  <a href="terrythedev" target="_blank">
+  <a href="https://discord.com/users/1366429183789502464" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="50" alt="discord logo"  />
   </a>
 </div>
