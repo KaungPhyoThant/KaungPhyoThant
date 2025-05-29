@@ -36,10 +36,6 @@
 
 ###
 
-<p align="left">🛠️ Projects I've Contributed To<br><br>- 🍽️ Restaurant POS System with real-time kitchen updates<br>- 🛍️ Online Shopping Platform with Laravel + React<br>- 🧾 Admin Reporting System with real-time notification built with FilamentPHP<br>- 🔐 Secure APIs with proper role/permission logic</p>
-
-###
-
 <p align="left">🏆 Certifications (Ethical Hacking)<br><br>- SQL Injection Attacks [EC-Counci]<br>- Android Bug Coundary Hunting : Hunt Like A Rat [EC-Counci]<br>- Ethical Hacking Essential [EC-Counci]<br>- Getting Start With Open Source Intelligence using a Windows Host [CodeRed]<br>- CyberSecurity For Blockchain From Ground Up [CodeRed]</p>
 
 ###
