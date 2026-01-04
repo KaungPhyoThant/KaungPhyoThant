@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Kaung Phyo Thant<br><br>Self-taught web developer with a background in Ethical Hacking and a passion for building real-world applications. I specialize in HTML, CSS, Laravel, and React. Currently working as a Full-Stack developer at **Ultimate Solutions Myanmar**</p>
+<p align="left">👋 Hi, I'm Kaung Phyo Thant<br><br>Self-taught web developer with a background in Ethical Hacking and a passion for building real-world applications. I specialize in HTML, CSS, Laravel, and React. Currently working as a Full-Stack developer.</p>
 
 ###
 
